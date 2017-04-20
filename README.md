@@ -1,5 +1,5 @@
 # Sunshine
-Android App for Getting Weather Forecast data. It uses weather data from USGS.gov
+Android App for Getting Weather Forecast data. It uses weather data from OpenWeatherMap API.
 
 ## Minimum SDK Version
 minimum version require to fully support all the functionality is API Level 16
